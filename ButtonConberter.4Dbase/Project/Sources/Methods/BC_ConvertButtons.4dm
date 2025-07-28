@@ -22,14 +22,14 @@ If ($logFile=Null:C1517)
 Else 
 	
 	//対象となるボタンを探すためのマップ
-	$classNames:=["button-highlight"; "button-offset"]
 	$classInfo:=[\
 		{name: "button-highlight"; properties: [{name: "customBackgroundPicture"}; {name: "focusable"}; {name: "imageHugsTitle"}; {name: "style"}; {name: "iconFrames"}; {name: "display"}]}; \
 		{name: "button-offset"; properties: [{name: "customBackgroundPicture"}; {name: "focusable"}; {name: "imageHugsTitle"}; {name: "style"}; {name: "iconFrames"}; {name: "display"}; {name: "text"; value: ""}; {name: "borderStyle"; value: "solid"}]}\
 		]
 	$types:=[\
 		"Highlight buttons are unsupported and converted as invisible buttons. You may consider using 3D buttons instead."; \
-		"'Background offset' 3D button style is not supported."]
+		"'Background offset' 3D button style is not supported."\
+		]
 	
 	//mark: ボタン用CSS定義を準備
 	
