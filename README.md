@@ -12,3 +12,9 @@
 
 > [!NOTE]
 > Logsフォルダーの中にプロジェクト変換時に生成されたログ（例`Conversion 9999-99-99T99-99-99.json`）ファイルが存在する必要があります。
+
+## Special thanks
+
+制作にあたり⇓の投稿を参考にしました。
+
+> [Replace highlight buttons with custom SVG buttons](https://discuss.4d.com/t/replace-highlight-buttons-with-custom-svg-buttons/31719)
