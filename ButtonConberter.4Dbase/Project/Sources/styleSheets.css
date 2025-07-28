@@ -1,0 +1,17 @@
+button.button-highlight {
+	customBackgroundPicture: url(/RESOURCES/Images/ButtonSVGs/button-highlight.svg);
+	focusable: false;
+	imageHugsTitle: false;
+	style: custom;
+	iconFrames: 4;	
+	display: true;
+}
+
+button.button-offset {
+	customBackgroundPicture: url(/RESOURCES/Images/ButtonSVGs/button-offset.svg);
+	focusable: false;
+	imageHugsTitle: false;
+	style: custom;
+	iconFrames: 4;	
+	display: true;
+}

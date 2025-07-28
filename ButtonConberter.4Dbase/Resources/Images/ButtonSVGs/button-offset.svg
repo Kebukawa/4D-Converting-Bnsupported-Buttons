@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<svg
+	xmlns="http://www.w3.org/2000/svg"
+	xmlns:xlink="http://www.w3.org/1999/xlink"
+	width="1000px"
+	height="4000px">
+
+	<polyline
+	fill="none" stroke="#FFFFFF"
+	stroke-width="1"
+	vector-effect="non-scaling-stroke"
+	points="0001,2999 0001,2001 0999,2001" />
+	<polyline
+	fill="none" stroke="#363636"
+	stroke-width="1"
+	vector-effect="non-scaling-stroke"
+	points="0001,2999 0999,2999 0999,2001" />
+
+	<polyline
+	fill="none" stroke="#363636"
+	stroke-width="1"
+	vector-effect="non-scaling-stroke"
+	points="0001,2000 0001,1001 0999,1001" />
+	<polyline
+	fill="none" stroke="#FFFFFF"
+	stroke-width="1"
+	vector-effect="non-scaling-stroke"
+	points="0001,1999 0999,1999 0999,1001" />
+
+	<polyline
+	fill="none" stroke="#FFFFFF"
+	stroke-width="1"
+	vector-effect="non-scaling-stroke"
+	points="0001,0999 0001,0001 0999,0001" />
+	<polyline
+	fill="none" stroke="#363636"
+	stroke-width="1"
+	vector-effect="non-scaling-stroke"
+	points="0001,0999 0999,0999 0999,0001" />
+
+</svg>
