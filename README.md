@@ -10,11 +10,11 @@
 
 ## インストール方法
 
-プロジェクトに変換した後に、その変換後のプロジェクトに、コンポーネントとして`ButtonConberter.4Dbase`をインストールします。
+プロジェクトに変換した後に、その変換後のプロジェクトに、コンポーネントとして`ButtonConverter.4Dbase`をインストールします。
 
 ## 変換作業
 
-問題のプロジェクトからコンポーネントメソッドの[BC_ConvertButtons](https://github.com/Kebukawa/4D-Converting-Bnsupported-Buttons/blob/main/ButtonConberter.4Dbase/Project/Sources/Methods/BC_ConvertButtons.4dm)を実行してください。
+問題のプロジェクトからコンポーネントメソッドの[BC_ConvertButtons](https://github.com/Kebukawa/4D-Converting-Bnsupported-Buttons/blob/main/ButtonConverter.4Dbase/Project/Sources/Methods/BC_ConvertButtons.4dm)を実行してください。
 
 > [!NOTE]
 > Logsフォルダーの中にプロジェクト変換時に生成されたログ（例`Conversion 9999-99-99T99-99-99.json`）ファイルが存在する必要があります。
